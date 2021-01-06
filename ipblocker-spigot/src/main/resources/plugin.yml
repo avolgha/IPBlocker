@@ -1,0 +1,7 @@
+name: Ipblocker
+version: ${project.version}
+main: dev.marius.ipblocker.spigot.Spigot
+api-version: 1.16
+authors: [ Marius ]
+description: Blocks the IP if it is more than two times online
+website: https://github.com/MagicDev-Marius

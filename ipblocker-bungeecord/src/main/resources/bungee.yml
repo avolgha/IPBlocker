@@ -1,0 +1,4 @@
+name: IPBlocker
+version: ${project.version}
+main: dev.marius.ipblocker.bungee.BungeeCord
+description: Blocks the IP if it is more than two times online

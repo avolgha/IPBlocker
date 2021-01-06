@@ -1,0 +1,6 @@
+Custom Licence
+
+You are free to copy the "dev.marius.ipblocker.common.IPBlocker" File.
+But it would be nice if you would mention me in your project and leave the comments in the class
+
+You can contact me on Discord: Marius#0686
