@@ -1,7 +1,7 @@
 # IPBlocker
-## Spigot and BungeeCord Plugin for blocking multiple Accounts with the same IP Address
+### Spigot and BungeeCord Plugin for blocking multiple Accounts with the same IP Address
 
-### How to use
+## How to use
 1. Download `.jar` file from releases
 2. Put `.jar` file into `plugins/` folder of your Bukkit/Spigot/Paper/BungeeCord Server
 3. Restart Server
